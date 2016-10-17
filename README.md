@@ -1,3 +1,3 @@
 # Hangman
-CSE101 - Computer Programming and Problem Solving  
+Weekend Project 
 Naive implementation of Hangman Game.
